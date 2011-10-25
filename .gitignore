@@ -1,1 +1,4 @@
 setup/config.php
+includes/auth/wwuauth.php
+tools/sids-example
+newauth/wwuauth.php
