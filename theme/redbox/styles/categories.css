@@ -1,0 +1,33 @@
+img.catImg {
+  position: absolute;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+
+div.category_container {
+  margin-bottom: 40px;
+}
+
+
+
+div.category_container a.cat_title {
+  color: #000088;
+}
+
+div.category_container a, div.allItemLinks_container a {
+  color: #000000;
+}
+
+
+div.category_container h4 a {
+  text-decoration: underline;
+  font-weight: bold;
+  margin-left: 90px;
+  color: #000088;
+}
+
+div.category_container p {
+ margin-left: 90px;
+}

@@ -1,0 +1,60 @@
+/* If sideboxes are included (as right floats), then pust listings table over */
+/* For non-IE browsers (IE does what we want to do automatically) */
+#container>#container_inner>#main_content {
+  margin-right: 250px;
+}
+
+/* Sidebox styles */
+.sidebox_container {
+  clear: right;
+  float: right;
+}
+
+.sidebox {
+
+  border: solid;
+  width:250px;   
+  border: 2px dotted blue;
+  width:220px; 
+  margin: 5px;
+  padding: 0px 5px 0px 10px;
+  background: #fff;
+  z-index: 100;
+/*   background-color: #DDEBFB; */
+  background-image: url('../../../images/brushed.png');
+}
+
+span.b {
+  font-weight: bold;
+}
+
+p.sidebox {
+  font-size: x-small;
+}
+
+.sidebox-header {
+  color: #008;
+  font-size: 120%;
+}
+
+
+p.sidebox-link a {
+  text-decoration: none;
+  color: #222;
+}
+
+.sidebox p.sidebox-link {
+  margin-bottom: -5px;
+}
+
+span.sidebox-item a {
+  text-decoration: underline;
+  color: #000;
+  font-weight: bold;
+}
+
+span.sidebox-item a:hover {
+  color: #fff;
+  background-color: #009;
+  text-decoration: underline;
+}

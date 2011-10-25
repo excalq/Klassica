@@ -1,0 +1,14 @@
+Klassica Changelog
+
+
+---- Version 2.0.1 ----
+[Unknown until 2008-07-07, need to do diff histories]
+2008-07-07: AK: Created changelog.
+2008-07-07: AK: Darkened brushed metal images in default theme, applied same texture to header BG.
+2008-07-07: AK: Fixed login bug that has been preventing new WWU users from logging in. (Correct LDAP migrate was only happening if user was already in Klassica user DB)
+2008-07-07: AK: Fixed bug that was causing items from all year to show in the newest listings sidebar
+2008-07-07: AK: Branched WWU Klassica version 2.0.1 to 2.0.2, released stable branch
+---- Version 2.0.2 ----
+2008-07-07: AK: Worked on novell user migration script
+2008-07-07: AK:
+2008-07-07: AK:

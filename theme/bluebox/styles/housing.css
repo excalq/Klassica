@@ -1,0 +1,95 @@
+#container_inner p {
+  margin: 5px 0 5px 0;
+  padding: 15px 0 15px 0;
+  border-top: 1px dashed gray;
+}
+
+#container_inner label {
+  font-weight: bold;
+}
+
+input.txtbox {
+  width: 250px;
+}
+
+table.listings {
+  width: 100%;
+}
+
+table.listings tr {
+  border: 1px solid navy;
+}
+
+table.listings tr,
+table.listings tr td {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  vertical-align: top;
+  text-align: center;
+}
+
+th {
+  height: 25px;
+  color: #FFFFFF;
+  background-color: #446686;
+  background-image: url('../../../images/brushed-blue.png');
+}
+
+tr.odd {
+  background: #CEDFEF;
+  height: 2em;
+}
+
+tr.even {
+  background: #F0F0F8;
+  height: 2em;
+}
+
+
+/* Form fields */
+.txtbed, 
+.txtbath, 
+.txtrent, 
+.txtdeposit {
+  width: 4em;
+}
+
+.txadescr {
+  width: 350px;
+  height: 6em;
+}
+
+.txttitle {
+  width: 350px;
+}
+
+.txtcname, 
+.txtphone {
+  width: 8em;
+}
+
+/* file upload box */
+.fileupbox {
+  padding-top: 5px;
+  width: 10em;
+}
+
+.calendar_input {
+  width: 10em;
+  margin-right: 5px;
+}
+
+textarea.house-request-textarea {
+  width: 400px;
+  height: 250px;
+}
+
+/* Form Buttons */
+div.h-form-buttons {
+}
+
+input.submit {
+  font-weight: bold;
+  margin-right: 15px;
+}

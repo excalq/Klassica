@@ -1,0 +1,17 @@
+#login_form label,
+#login_form input {
+  display: block;
+  width: 150px;
+  float: left;
+  margin-bottom: 10px;
+}
+
+#login_form label {
+  text-align: right;
+  width: 75px;
+  padding-right: 20px;
+}
+
+#login_form br {
+  clear: left;
+}

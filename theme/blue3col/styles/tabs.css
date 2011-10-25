@@ -1,0 +1,54 @@
+#top_navigation {
+  position: absolute;
+  top: 101px;
+  left: 170px; /* aligns correctly in IE only */
+/*  width: 100%;*/ /* causes whitespace on right of page in IE*/
+}
+
+#top_navigation ul#navtabs {
+  display: block;
+  position: relative;
+  font: bold 11px verdana, arial, sans-serif;
+  list-style-type: none;
+  padding-bottom: 24px;
+  margin: 0px; /* Prevent vertical misalignment in mozilla */
+  left: -38px; /* Aligns non-IE6 browsers (no affect on IE<7) */
+
+}
+
+#top_navigation ul#navtabs li {
+  float: left;
+  height: 21px;
+  background-color: #23D;
+  margin: 2px 2px 0 2px;
+  border: 1px solid #007;
+}
+
+/* Navigation current link highlighting */
+/* Depends on what id current body tag has */
+#home #top_navigation li.home, #browse #top_navigation li.browse, 
+#search #top_navigation li.search, #sell #top_navigation li.sell, 
+#announce #top_navigation li.announce, #myklassica #top_navigation li.myklassica, 
+#about #top_navigation li.about {
+  border-bottom: 1px solid #FFF;
+  background-color: #FFF;
+}
+
+#home #top_navigation li.home a, #browse #top_navigation li.browse a, 
+#search #top_navigation li.search a, #sell #top_navigation li.sell a, 
+#announce #top_navigation li.announce a, #myklassica #top_navigation li.myklassica a, 
+#about #top_navigation li.about a {
+  color: #007;
+}
+
+#top_navigation #navtabs a {
+  float: left;
+  display: block;
+  color: #FFF;
+  text-decoration: none;
+  padding: 5px;
+}
+
+#top_navigation #navtabs a:hover {
+  background: #48F;
+}

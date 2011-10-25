@@ -1,0 +1,106 @@
+/* some of this is overridden in msiehack.css */
+div#table_container {
+  display: relative;
+}
+
+table.itemstable, table.messagestable {
+  width: 100%; /* MSIE Can't Handle this - see msiehacks.css */
+  border-spacing: 0px;
+  border-collapse: collapse; /* border-spacing for msie*/ 
+}
+
+/*  Item Lisings */
+table.itemstable th{
+  text-align: left;
+}
+
+table.itemstable th.th_price {
+  width: 7.5em;
+  text-align: right;
+  padding-right: 5px;
+}
+
+table.itemstable th.th_condition {
+  width: 8em;
+  text-align: center;
+}
+
+table.itemstable th.th_date {
+  width: 6.5em;
+  padding-right: 5px;
+}
+
+tr.header {
+  color: #FFFFFF;
+  /*background: #95b5d5;*/
+  background-color: #446686;
+  background-image: url('../images/thbg.jpg');
+}
+
+tr.odd {
+  background: #CEDFEF;
+  height: 2em;
+}
+
+tr.even {
+  background: #FFFFFF;
+  height: 2em;
+}
+
+td.condition {
+  text-align: center;
+}
+
+td.price {
+  padding-right: 5px;
+  text-align: right;
+}
+
+/*  Messages */
+
+table.messagestable th {
+  text-align: left;
+}
+  
+table.messagestable th.th_from {
+  width: 15%;
+}
+table.messagestable th.th_email {
+  width: 15%;
+}
+table.messagestable th.th_item {
+  width: 10%;
+}
+table.messagestable th.th_buy {
+  width: 6%;
+  text-align: center;
+}
+table.messagestable th.th_message {
+}
+table.messagestable th.th_received {
+  width: 6.5em;
+  padding-right: 5px;
+}
+
+table.messagestable {
+ width: 100%;
+table-layout:fixed;
+}
+
+table.messagestable td.item {
+  text-overflow:ellipsis;
+  overflow:hidden;
+}
+
+table.messagestable td.msgLine {
+  padding-right: 5px;
+  text-overflow:ellipsis;
+  overflow:hidden;
+  white-space:nowrap;
+  color: #666666;
+}
+
+td.buy {
+  width: 4%;
+  text-align: center;
+}

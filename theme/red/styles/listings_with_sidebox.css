@@ -1,0 +1,5 @@
+/* If sideboxes are included (as right floats), then pust listings table over */
+/* For non-IE browsers (IE does what we want to do automatically) */
+#container>#container_inner>#main_content {
+  margin-right: 250px;
+}

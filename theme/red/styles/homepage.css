@@ -1,0 +1,25 @@
+img.catImg {
+  margin: 0 10px;
+  border: none;
+  float: left;
+}
+
+div.category_container {
+  margin-bottom: 60px;
+}
+
+div.category_container h4 {
+  text-decoration: none;
+  font-weight: bold;
+  margin-bottom: -5px;
+  color: #000088;
+}
+
+div.category_container a.cat_title {
+  color: #000088;
+/*   text-decoration: none; */
+}
+
+div.category_container a {
+  color: #000000;
+}

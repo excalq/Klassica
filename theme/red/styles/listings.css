@@ -1,0 +1,164 @@
+/* Descriptive Titles above tables */
+h3.table_title {
+  font-size: 170%;
+}
+
+div#table_container {
+}
+
+table.itemstable, table.messagestable {
+  width: 100%; /* MSIE Can't Handle this - see msiehacks.css */
+  border-spacing: 0px;
+  border-collapse: collapse; /* border-spacing for msie*/ 
+}
+
+/*  Item Lisings */
+table.itemstable th{
+  text-align: left;
+}
+
+table.itemstable th.th_title {
+  width: 7em;
+  padding-right: 5px;
+}
+
+table.itemstable th.th_price {
+  width: 7.5em;
+  text-align: right;
+  padding-right: 5px;
+}
+
+table.itemstable th.th_condition {
+  width: 8em;
+  text-align: center;
+}
+
+table.itemstable th.th_date {
+  width: 6.5em;
+  padding-right: 5px;
+}
+
+table.itemstable th.th_datetime {
+  width: 13em;
+  padding-right: 5px;
+}
+
+tr.header {
+  color: #FFFFFF;
+  background-color: #446686;
+  background-image: url('../images/table-header-bg.jpg');
+}
+
+tr.odd {
+  background: #CEDFEF;
+  height: 2em;
+}
+
+tr.even {
+  background: #FFFFFF;
+  height: 2em;
+}
+
+td.condition {
+  text-align: center;
+}
+
+td.price {
+  padding-right: 5px;
+  text-align: right;
+}
+
+/*  Messages */
+
+table.messagestable th {
+  text-align: center;
+}
+  
+table.messagestable th.th_title {
+  width: 30ex;
+  text-align: left;
+}
+table.messagestable th.th_from {
+  width: 17ex;
+  text-align: left;
+}
+table.messagestable th.th_email {
+  width: 15ex;
+}
+table.messagestable th.th_item {
+  width: 20ex;
+}
+table.messagestable th.th_buy {
+  width: 10ex;
+}
+table.messagestable th.th_textline {
+
+}
+table.messagestable th.th_date {
+  text-align: center;
+  width: 22ex;
+  padding: 0 5px 0 5px;
+}
+
+table.messagestable {
+  width: 100%;
+  table-layout:fixed;
+}
+
+table.messagestable td.title,
+table.messagestable td.from,
+table.messagestable td.item,
+table.messagestable td.textline,
+table.messagestable td.mtextline,
+table.messagestable td.date {
+  padding-right: 5px;
+  text-decoration: none;
+  text-overflow: ellipsis;
+/* I think it's better to show full titles */
+/*  overflow: hidden;
+  white-space:nowrap;*/
+}
+
+/* Show messages when users hover over them */
+table.messagestable td.mtextline:hover {
+  color: #000000;
+  text-decoration: none;
+  text-overflow: normal;
+  white-space:normal;
+}
+
+table.messagestable td.textline,
+table.messagestable td.mtextline,
+table.messagestable td.mtextline a {
+  color: #666666;
+  text-decoration: none;
+}
+
+table.messagestable td.date {
+  text-align: right;
+}
+
+td.buy {
+  text-align: center;
+}
+
+/* Calendar form widget below listings (used on MyKlassica1) */
+.calendar_label {
+  font-weight: bold;
+}
+
+input.calendar_input {
+
+}
+
+form#buy_table1,
+form#buy_table2,
+form#sold_table1, 
+form#sold_table2 {
+  display: inline;
+}
+
+form#buy_table1,
+form#sold_table1 {
+  margin-right: 40px;
+}

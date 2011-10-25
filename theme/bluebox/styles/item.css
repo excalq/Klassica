@@ -1,0 +1,51 @@
+#item_heading {
+  margin-left: -15px;
+  margin-right: -10px;
+  margin-top: -5px;
+
+  padding: 5px 10px 5px 10px;
+  background-color: #cdf;
+}
+
+#item_heading table {
+  font-size: 130%;
+}
+
+#item_details {
+  font-size: 130%;
+}
+
+#item_heading table td.left_col,
+#item_details table td.left_col {
+  padding-right: 3em;
+}
+
+
+
+#flagging_container {
+/*   float: right; */
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+ul.button-boxes  {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+
+ul.button-boxes li {
+  display: inline;
+  padding: 5px;
+  margin: 2px;
+  background-color: #eee;
+  border: 1px solid #888;
+}
+
+
+ul.button-boxes li a {
+  color: #008;
+  font-weight: bold;
+}

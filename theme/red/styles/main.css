@@ -1,0 +1,231 @@
+@import url("tabs.css");
+
+/* Three Column CSS layout from http://www.cssplay.co.uk/layouts/3cols2.html */
+
+a:link, a:active, a:visited {
+  color: #000;
+}
+
+html, body {
+  margin:0px;
+  padding:0px;
+  font-family:verdana;
+  font-size:12px;
+}
+
+#header {
+  display:block; 
+  width: 100%;
+  height: 125px;
+  background: #990000;
+  /* background: #95b5d5; */ /* Old Color */
+  border-bottom: 1px solid #aaa; /* for CSS tabs*/
+}
+
+#header img {
+  float: right;
+  visibility: hidden;
+}
+
+#header h1 {
+position: absolute;
+left: 47px;
+color: #fff;
+}
+
+/*
+#header h1:after {
+content: " (Development Version)";
+}
+*/
+
+#header h1 a {
+text-decoration: none;
+left: 47px;
+color: #fff;
+}
+
+#search_container {
+  position: absolute;
+  top: 75px;
+  left: 50px;
+}
+
+div#login_container {
+    position: absolute;
+    top: 75px;
+    left: 320px;
+}
+
+.headerFormTextInput {
+  position: relative;
+ /* position: absolute;
+  top: 30px;
+  left: 50px; */
+  font-size: 75%;
+  color: #FFFFFF;
+  background: #990000;
+  border: 1px solid white;
+}
+
+div#loggedInAsText {
+  color: #FFFFFF;
+}
+
+/* Make header submit buttons look like links */
+.headerSubmitLink {
+  color: #FFFFFF;
+  font-size: 75%;
+  font-weight: bold;
+  background: #900;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+}
+
+.headerSubmitLink:hover {
+  border: 1px inset;
+}
+
+#container {
+  position:relative;
+  display:block;
+  background: #fff;
+  overflow:visible;
+  border: none;
+}
+
+#container_inner {
+  display:block; 
+  padding:5px;
+  margin-top: 0px;
+  overflow: visible;
+/* IE peakaboo bugfix */
+  height:1%;
+}
+
+/* IE peakaboo bugfix */
+#container>#container_inner {
+  height:auto;
+}
+
+/* main center area below header (excluding sideboxes/columns) */
+#main_content {
+  height: auto;
+  padding: 0px 10px 0px 10px;
+  overflow: visible;
+  background: #fff;
+}
+
+.sidebox_container {
+  clear: right;
+  float: right;
+}
+
+.sidebox {
+  border: solid;
+  width:250px;   
+  border: 2px dotted maroon;
+  width:220px; 
+  margin: 5px;
+  padding: 0px 5px 0px 10px;
+  z-index: 100;
+  background-color: #ddd;
+}
+
+#footer {
+  clear: both;
+  text-align: center;
+  padding-top: 5px;
+  width: 100%;
+  height: 50px;
+  color: #ffffff;
+  background: #990000;
+}
+
+#footer a {
+  color: #ffffff;
+}
+
+img.footerImage {
+  vertical-align: middle;
+}
+
+img#firefoxImage {
+  visibility: hidden; /* hide from non-msie */
+}
+
+/* For pages that require login */
+p.please-login {
+  font-size: 150%;
+  color: #0000CC;
+}
+
+.titleLabel {
+  color: #660000;
+  font-weight: bold;
+}
+
+.notifyLabel {
+    font-weight: bold;
+    color: #0000FF;
+}
+
+.errorLabel {
+    font-weight: bold;
+    color: #CC0000;
+}
+
+/* title label link */
+.titleLabel a {
+  color: #660000;
+  font-weight: bold;
+}
+
+.b {
+  font-weight: bold;
+}
+
+.i {
+    font-style: italic;
+}
+
+.bi {
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* general body-text (usually <p>) */
+.bodytext {
+  color: #000;
+}
+
+/* dk blue link */
+.nb-link {
+  color: #000066;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.rb {
+  font-weight: bold;
+  color: red;
+}
+
+img {
+ border: none;
+}
+
+.clear {
+  clear:both;
+  height:1px;
+  overflow:hidden;
+}
+
+em {font-weight:bold;}

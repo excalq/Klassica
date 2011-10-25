@@ -1,0 +1,29 @@
+/* rules for msie < 7.0 */
+
+
+/* msie hack */
+* html #main_content {
+  display:inline-block; /* Non-validating CSS, unsupported by mozilla */
+}
+
+/* msie hack */
+* html #leftcol {
+  width:159px;
+}
+
+/* Item lisings */
+div#table_container {
+ display: relative;
+ padding: 2px;
+ margin: 0px;
+ width: 97%; /* up to 97% */
+ overflow: visible;
+}
+
+hr {
+  width: 95%;
+}
+
+img#firefoxImage {
+  visibility: visible;
+}

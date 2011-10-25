@@ -1,0 +1,628 @@
+2008-03-18 23:57:04 User Logged in (Local): utest
+2008-03-19 00:15:37 User Logged in (LDAP): 
+2008-03-19 00:20:52 User Logged in (LDAP): 
+2008-03-19 00:25:05 ERROR failure with LDAP and Klassica login: test
+2008-03-19 00:26:41 ERROR failure with LDAP and Klassica login: ketcar
+2008-03-19 00:31:11 ERROR failure with LDAP and Klassica login: ketcar
+2008-03-19 00:31:23 ERROR failure with LDAP and Klassica login: ketcar
+2008-03-19 00:31:29 ERROR failure with LDAP and Klassica login: ketcar
+2008-03-19 00:31:39 User Logged in (Local): utest
+2008-03-19 00:35:06 ERROR failure with LDAP and Klassica login: test
+2008-03-19 00:35:28 ERROR failure with LDAP and Klassica login: test
+2008-03-19 00:35:37 User Logged in (Local): utest
+2008-03-19 09:38:45 ERROR failure with LDAP and Klassica login: test
+2008-03-19 09:38:57 New WWU User: webtest
+2008-03-19 09:38:57 User Logged in (LDAP): webtest
+2008-03-19 10:40:44 User Logged in (LDAP): webtest
+2008-03-19 11:09:19 User Logged in (LDAP): webtest
+2008-03-19 11:12:22 User Logged in (LDAP): webtest
+2008-03-19 11:52:14 User Logged in (LDAP): webtest
+2008-03-19 11:52:38 ERROR failure with LDAP and Klassica login: test
+2008-03-19 11:52:49 User Logged in (Local): utest
+2008-03-19 11:53:05 ERROR failure with LDAP and Klassica login: ketcar
+2008-03-19 11:53:17 New WWU User: ketcar
+2008-03-19 11:53:17 User Logged in (LDAP): ketcar
+2008-03-19 12:19:51 Local Auth was: 
+2008-03-19 12:19:51 New WWU User: ketcar
+2008-03-19 12:19:51 User Logged in (LDAP): ketcar
+2008-03-19 12:21:19 Local Auth was: 0
+2008-03-19 12:21:19 User Logged in (LDAP): ketcar
+2008-03-19 12:31:23 ERROR failure with LDAP and Klassica login: gfdgfd
+2008-03-19 12:32:04 ERROR failure with LDAP and Klassica login: gfgfd
+2008-03-19 12:43:26 Local Auth was: 0
+2008-03-19 12:43:26 User Logged in (LDAP): webtest
+2008-03-19 13:14:26 Local Auth was: 1
+2008-03-19 13:14:26 New WWU User: david.kartik
+2008-03-19 13:14:26 User Logged in (LDAP): david.kartik
+2008-03-19 13:15:04 Local Auth was: 1
+2008-03-19 13:15:04 New WWU User: eric.lien
+2008-03-19 13:15:04 User Logged in (LDAP): eric.lien
+2008-03-19 16:16:06 Local Auth was: 0
+2008-03-19 16:16:06 User Logged in (LDAP): ketcar
+2008-03-20 10:54:40 Local Auth was: 0
+2008-03-20 10:54:40 User Logged in (LDAP): lopean
+2008-03-20 14:52:49 Local Auth was: 0
+2008-03-20 14:52:49 User Logged in (LDAP): david.kartik
+2008-03-20 16:51:32 Local Auth was: 0
+2008-03-20 16:51:32 User Logged in (LDAP): amy.shine
+2008-03-21 19:12:37 Local Auth was: 0
+2008-03-21 19:12:37 User Logged in (LDAP): glidbr
+2008-03-21 20:21:18 Local Auth was: 0
+2008-03-21 20:21:18 User Logged in (LDAP): glidbr
+2008-03-21 22:24:40 Local Auth was: 0
+2008-03-21 22:24:40 User Logged in (LDAP): rachael.westbrooks
+2008-03-24 11:05:27 Local Auth was: 0
+2008-03-24 11:05:27 User Logged in (LDAP): tammy.mcmann
+2008-03-24 20:52:58 Local Auth was: 1
+2008-03-24 20:52:58 New WWU User: jennifer.yates
+2008-03-24 20:52:58 User Logged in (LDAP): jennifer.yates
+2008-03-25 00:03:14 Local Auth was: 0
+2008-03-25 00:03:14 User Logged in (LDAP): leslie.michel
+2008-03-25 23:18:53 Local Auth was: 0
+2008-03-25 23:18:53 User Logged in (LDAP): ketcar
+2008-03-26 10:55:11 ERROR failure with LDAP and Klassica login: mikehe
+2008-03-26 10:55:20 Local Auth was: 0
+2008-03-26 10:55:20 User Logged in (LDAP): mikehe
+2008-03-26 11:08:35 Local Auth was: 0
+2008-03-26 11:08:35 User Logged in (LDAP): mikehe
+2008-03-27 10:26:35 Local Auth was: 0
+2008-03-27 10:26:35 User Logged in (LDAP): elliott.pevida
+2008-03-27 10:36:14 Local Auth was: 0
+2008-03-27 10:36:14 User Logged in (LDAP): marianne.goltz
+2008-03-27 16:38:13 Local Auth was: 1
+2008-03-27 16:38:13 New WWU User: brooke.davey
+2008-03-27 16:38:13 User Logged in (LDAP): brooke.davey
+2008-03-27 19:11:28 Local Auth was: 0
+2008-03-27 19:11:28 User Logged in (LDAP): elizabeth.cheek
+2008-03-27 21:25:02 Local Auth was: 0
+2008-03-27 21:25:02 User Logged in (LDAP): webtest
+2008-03-28 01:38:43 Local Auth was: 0
+2008-03-28 01:38:43 User Logged in (LDAP): amy.shine
+2008-03-28 01:40:29 Local Auth was: 0
+2008-03-28 01:40:29 User Logged in (LDAP): amy.shine
+2008-03-28 08:50:04 Local Auth was: 0
+2008-03-28 08:50:04 User Logged in (LDAP): brooke.davey
+2008-03-28 10:45:34 Local Auth was: 0
+2008-03-28 10:45:34 User Logged in (LDAP): webtest
+2008-03-28 10:48:41 Local Auth was: 0
+2008-03-28 10:48:41 User Logged in (LDAP): david.kartik
+2008-03-28 11:26:34 Local Auth was: 1
+2008-03-28 11:26:34 New WWU User: karla.sprague
+2008-03-28 11:26:34 User Logged in (LDAP): karla.sprague
+2008-03-28 12:30:57 Local Auth was: 0
+2008-03-28 12:30:57 User Logged in (LDAP): brooke.davey
+2008-03-28 14:46:39 Local Auth was: 1
+2008-03-28 14:46:39 New WWU User: sarah.higman
+2008-03-28 14:46:39 User Logged in (LDAP): sarah.higman
+2008-03-28 15:50:33 Local Auth was: 1
+2008-03-28 15:50:33 New WWU User: ruben.franco
+2008-03-28 15:50:33 User Logged in (LDAP): ruben.franco
+2008-03-28 16:56:28 Local Auth was: 0
+2008-03-28 16:56:28 User Logged in (LDAP): dinyero.johnson
+2008-03-29 12:36:46 Local Auth was: 0
+2008-03-29 12:36:46 User Logged in (LDAP): yeng.lee
+2008-03-29 16:25:57 Local Auth was: 1
+2008-03-29 16:25:57 New WWU User: hermon.mike
+2008-03-29 16:25:57 User Logged in (LDAP): hermon.mike
+2008-03-29 19:43:51 Local Auth was: 0
+2008-03-29 19:43:51 User Logged in (LDAP): john.lubke
+2008-03-29 20:19:55 Local Auth was: 1
+2008-03-29 20:19:55 New WWU User: kimberly.vipond
+2008-03-29 20:19:55 User Logged in (LDAP): kimberly.vipond
+2008-03-30 12:54:16 Local Auth was: 0
+2008-03-30 12:54:16 User Logged in (LDAP): ruben.franco
+2008-03-30 14:05:05 Local Auth was: 0
+2008-03-30 14:05:05 User Logged in (LDAP): christopher.patchett
+2008-03-30 16:09:22 Local Auth was: 0
+2008-03-30 16:09:22 User Logged in (LDAP): john.lubke
+2008-03-30 16:21:55 Local Auth was: 0
+2008-03-30 16:21:55 User Logged in (LDAP): gordon.brannon
+2008-03-30 17:11:54 Local Auth was: 1
+2008-03-30 17:11:54 New WWU User: melissa.ramkissoon
+2008-03-30 17:11:54 User Logged in (LDAP): melissa.ramkissoon
+2008-03-30 20:23:56 Local Auth was: 0
+2008-03-30 20:23:56 User Logged in (LDAP): karla.sprague
+2008-03-30 21:03:10 Local Auth was: 0
+2008-03-30 21:03:10 User Logged in (LDAP): webtest
+2008-03-30 21:37:49 ERROR failure with LDAP and Klassica login: matthew.klein
+2008-03-30 21:37:57 Local Auth was: 0
+2008-03-30 21:37:57 User Logged in (LDAP): matthew.klein
+2008-03-30 22:36:23 ERROR failure with LDAP and Klassica login: amy.shine
+2008-03-30 22:36:33 ERROR failure with LDAP and Klassica login: amy.shine
+2008-03-30 22:36:47 Local Auth was: 0
+2008-03-30 22:36:47 User Logged in (LDAP): amy.shine
+2008-03-31 05:13:28 Local Auth was: 0
+2008-03-31 05:13:28 User Logged in (LDAP): rosalind.fujinaka
+2008-03-31 08:41:58 Local Auth was: 0
+2008-03-31 08:41:58 User Logged in (LDAP): michael.white
+2008-03-31 08:52:37 Local Auth was: 0
+2008-03-31 08:52:37 User Logged in (LDAP): marianne.goltz
+2008-03-31 10:18:09 Local Auth was: 1
+2008-03-31 10:18:09 New WWU User: judith.poirot
+2008-03-31 10:18:09 User Logged in (LDAP): judith.poirot
+2008-03-31 10:33:08 Local Auth was: 0
+2008-03-31 10:33:08 User Logged in (LDAP): courtni.mundy
+2008-03-31 14:02:03 Local Auth was: 0
+2008-03-31 14:02:03 User Logged in (LDAP): amy.shine
+2008-03-31 14:12:02 Local Auth was: 0
+2008-03-31 14:12:02 User Logged in (LDAP): christa.mowry
+2008-03-31 16:14:40 Local Auth was: 1
+2008-03-31 16:14:40 New WWU User: rebecca.masson
+2008-03-31 16:14:40 User Logged in (LDAP): rebecca.masson
+2008-03-31 18:28:36 Local Auth was: 0
+2008-03-31 18:28:36 User Logged in (LDAP): amy.shine
+2008-03-31 18:46:50 Local Auth was: 1
+2008-03-31 18:46:50 New WWU User: dayln.martin
+2008-03-31 18:46:50 User Logged in (LDAP): dayln.martin
+2008-03-31 19:40:38 Local Auth was: 0
+2008-03-31 19:40:38 User Logged in (LDAP): amy.shine
+2008-04-01 16:30:36 Local Auth was: 0
+2008-04-01 16:30:36 User Logged in (LDAP): dayln.martin
+2008-04-01 21:06:34 Local Auth was: 0
+2008-04-01 21:06:34 User Logged in (LDAP): sonia.whang
+2008-04-01 21:41:36 Local Auth was: 1
+2008-04-01 21:41:36 New WWU User: arthur.ketcham
+2008-04-01 21:41:36 User Logged in (LDAP): arthur.ketcham
+2008-04-01 21:42:57 Local Auth was: 0
+2008-04-01 21:42:57 User Logged in (LDAP): sonia.whang
+2008-04-01 22:42:33 Local Auth was: 0
+2008-04-01 22:42:33 User Logged in (LDAP): tsung-lin.yang
+2008-04-02 00:42:17 Local Auth was: 0
+2008-04-02 00:42:17 User Logged in (LDAP): amy.shine
+2008-04-02 10:53:27 Local Auth was: 0
+2008-04-02 10:53:27 User Logged in (LDAP): rebecca.masson
+2008-04-02 11:36:21 Local Auth was: 1
+2008-04-02 11:36:21 New WWU User: duane.anderson
+2008-04-02 11:36:21 User Logged in (LDAP): duane.anderson
+2008-04-02 13:53:34 Local Auth was: 0
+2008-04-02 13:53:34 User Logged in (LDAP): eric.shadle
+2008-04-02 14:08:06 ERROR failure with LDAP and Klassica login: tammy.mcmann
+2008-04-02 14:08:14 Local Auth was: 0
+2008-04-02 14:08:14 User Logged in (LDAP): tammy.mcmann
+2008-04-02 15:53:30 Local Auth was: 0
+2008-04-02 15:53:30 User Logged in (LDAP): dayln.martin
+2008-04-02 17:01:07 Local Auth was: 0
+2008-04-02 17:01:07 User Logged in (LDAP): glidbr
+2008-04-03 00:15:38 Local Auth was: 0
+2008-04-03 00:15:38 User Logged in (LDAP): glidbr
+2008-04-03 10:51:58 Local Auth was: 0
+2008-04-03 10:51:58 User Logged in (LDAP): ruben.franco
+2008-04-03 11:50:18 Local Auth was: 1
+2008-04-03 11:50:18 New WWU User: kelsey.correia
+2008-04-03 11:50:18 User Logged in (LDAP): kelsey.correia
+2008-04-03 12:21:39 Local Auth was: 1
+2008-04-03 12:21:39 New WWU User: heather.ferguson
+2008-04-03 12:21:39 User Logged in (LDAP): heather.ferguson
+2008-04-03 13:04:38 Local Auth was: 0
+2008-04-03 13:04:38 User Logged in (LDAP): sarah.higman
+2008-04-03 14:14:15 Local Auth was: 0
+2008-04-03 14:14:15 User Logged in (LDAP): lopean
+2008-04-03 15:40:34 Local Auth was: 1
+2008-04-03 15:40:34 New WWU User: dave.thomas
+2008-04-03 15:40:34 User Logged in (LDAP): dave.thomas
+2008-04-03 17:50:30 Local Auth was: 0
+2008-04-03 17:50:30 User Logged in (LDAP): duane.anderson
+2008-04-03 19:31:26 Local Auth was: 1
+2008-04-03 19:31:26 New WWU User: phillip.schlieder
+2008-04-03 19:31:26 User Logged in (LDAP): phillip.schlieder
+2008-04-03 19:46:13 Local Auth was: 0
+2008-04-03 19:46:13 User Logged in (LDAP): john.lubke
+2008-04-03 21:18:52 Local Auth was: 0
+2008-04-03 21:18:52 User Logged in (LDAP): glidbr
+2008-04-03 22:54:24 Local Auth was: 0
+2008-04-03 22:54:24 User Logged in (LDAP): elizabeth.cheek
+2008-04-04 00:01:50 Local Auth was: 0
+2008-04-04 00:01:50 User Logged in (LDAP): john.lubke
+2008-04-04 12:01:16 Local Auth was: 0
+2008-04-04 12:01:16 User Logged in (LDAP): elizabeth.cheek
+2008-04-04 13:00:30 Local Auth was: 1
+2008-04-04 13:00:30 New WWU User: andrew.wooley
+2008-04-04 13:00:30 User Logged in (LDAP): andrew.wooley
+2008-04-04 13:46:20 ERROR failure with LDAP and Klassica login: Case.Cheve
+2008-04-04 13:46:35 Local Auth was: 1
+2008-04-04 13:46:35 New WWU User: cheve.case
+2008-04-04 13:46:35 User Logged in (LDAP): cheve.case
+2008-04-05 13:41:21 ERROR failure with LDAP and Klassica login: Case.Cheve
+2008-04-05 13:41:31 ERROR failure with LDAP and Klassica login: Cheve.case
+2008-04-05 13:41:53 Local Auth was: 0
+2008-04-05 13:41:53 User Logged in (LDAP): cheve.case
+2008-04-05 18:00:20 Local Auth was: 0
+2008-04-05 18:00:20 User Logged in (LDAP): glidbr
+2008-04-06 14:43:14 Local Auth was: 1
+2008-04-06 14:43:14 New WWU User: briana.toelke
+2008-04-06 14:43:14 User Logged in (LDAP): briana.toelke
+2008-04-06 14:48:52 Local Auth was: 0
+2008-04-06 14:48:52 User Logged in (LDAP): phillip.schlieder
+2008-04-06 15:48:37 Local Auth was: 0
+2008-04-06 15:48:37 User Logged in (LDAP): john.lubke
+2008-04-06 16:12:42 Local Auth was: 0
+2008-04-06 16:12:42 User Logged in (LDAP): michael.spaulding
+2008-04-06 16:14:07 Local Auth was: 0
+2008-04-06 16:14:07 User Logged in (LDAP): rebecca.masson
+2008-04-06 18:08:17 Local Auth was: 0
+2008-04-06 18:08:17 User Logged in (LDAP): michael.spaulding
+2008-04-06 20:44:13 Local Auth was: 0
+2008-04-06 20:44:13 User Logged in (LDAP): elizabeth.cheek
+2008-04-06 22:58:31 Local Auth was: 0
+2008-04-06 22:58:31 User Logged in (LDAP): alex.english
+2008-04-06 23:12:57 Local Auth was: 0
+2008-04-06 23:12:57 User Logged in (LDAP): cheve.case
+2008-04-06 23:46:20 Local Auth was: 1
+2008-04-06 23:46:20 New WWU User: annalisa.ham
+2008-04-06 23:46:20 User Logged in (LDAP): annalisa.ham
+2008-04-07 04:24:44 User Logged in (Local): utest
+2008-04-07 09:43:00 Local Auth was: 0
+2008-04-07 09:43:00 User Logged in (LDAP): matt.lee
+2008-04-07 11:02:46 Local Auth was: 0
+2008-04-07 11:02:46 User Logged in (LDAP): courtni.mundy
+2008-04-07 13:39:08 Local Auth was: 0
+2008-04-07 13:39:08 User Logged in (LDAP): elizabeth.cheek
+2008-04-07 13:59:14 Local Auth was: 0
+2008-04-07 13:59:14 User Logged in (LDAP): arthur.ketcham
+2008-04-07 18:57:31 Local Auth was: 0
+2008-04-07 18:57:31 User Logged in (LDAP): glidbr
+2008-04-07 20:05:51 Local Auth was: 0
+2008-04-07 20:05:51 User Logged in (LDAP): christa.mowry
+2008-04-08 00:30:23 Local Auth was: 0
+2008-04-08 00:30:23 User Logged in (LDAP): lopean
+2008-04-08 07:36:35 Local Auth was: 0
+2008-04-08 07:36:35 User Logged in (LDAP): michael.spaulding
+2008-04-08 08:33:50 Local Auth was: 0
+2008-04-08 08:33:50 User Logged in (LDAP): john.lubke
+2008-04-08 12:02:45 Local Auth was: 0
+2008-04-08 12:02:45 User Logged in (LDAP): arthur.ketcham
+2008-04-08 21:32:03 Local Auth was: 0
+2008-04-08 21:32:03 User Logged in (LDAP): arthur.ketcham
+2008-04-09 09:20:20 Local Auth was: 0
+2008-04-09 09:20:20 User Logged in (LDAP): andrew.wooley
+2008-04-09 11:51:39 Local Auth was: 0
+2008-04-09 11:51:39 User Logged in (LDAP): sarah.troyer
+2008-04-09 12:50:53 Local Auth was: 0
+2008-04-09 12:50:53 User Logged in (LDAP): sarah.troyer
+2008-04-09 13:13:47 Local Auth was: 0
+2008-04-09 13:13:47 User Logged in (LDAP): sarah.troyer
+2008-04-09 13:33:59 Local Auth was: 0
+2008-04-09 13:33:59 User Logged in (LDAP): arthur.ketcham
+2008-04-09 14:14:23 Local Auth was: 0
+2008-04-09 14:14:23 User Logged in (LDAP): david.sandvik
+2008-04-09 15:38:13 Local Auth was: 0
+2008-04-09 15:38:13 User Logged in (LDAP): sarah.troyer
+2008-04-09 18:43:00 Local Auth was: 0
+2008-04-09 18:43:00 User Logged in (LDAP): arthur.ketcham
+2008-04-09 19:53:00 Local Auth was: 0
+2008-04-09 19:53:00 User Logged in (LDAP): yeng.lee
+2008-04-09 21:17:17 Local Auth was: 0
+2008-04-09 21:17:17 User Logged in (LDAP): yeng.lee
+2008-04-09 21:49:55 Local Auth was: 0
+2008-04-09 21:49:55 User Logged in (LDAP): sarah.troyer
+2008-04-10 13:37:32 Local Auth was: 0
+2008-04-10 13:37:32 User Logged in (LDAP): nathanael.lenart
+2008-04-10 13:53:09 Local Auth was: 0
+2008-04-10 13:53:09 User Logged in (LDAP): marianne.goltz
+2008-04-10 14:25:53 Local Auth was: 0
+2008-04-10 14:25:53 User Logged in (LDAP): yeng.lee
+2008-04-10 15:21:48 Local Auth was: 0
+2008-04-10 15:21:48 User Logged in (LDAP): sarah.troyer
+2008-04-10 16:36:45 Local Auth was: 0
+2008-04-10 16:36:45 User Logged in (LDAP): glidbr
+2008-04-10 19:22:17 Local Auth was: 0
+2008-04-10 19:22:17 User Logged in (LDAP): glidbr
+2008-04-11 01:25:30 Local Auth was: 0
+2008-04-11 01:25:30 User Logged in (LDAP): john.lubke
+2008-04-11 08:31:57 ERROR failure with LDAP and Klassica login: karan.shultz
+2008-04-11 08:32:19 ERROR failure with LDAP and Klassica login: karan.shultz@wallawalla.edu
+2008-04-11 08:32:30 ERROR failure with LDAP and Klassica login: shulka
+2008-04-11 08:33:07 ERROR failure with LDAP and Klassica login: karan.shultz
+2008-04-11 10:11:37 Local Auth was: 0
+2008-04-11 10:11:37 User Logged in (LDAP): glidbr
+2008-04-11 12:01:07 Local Auth was: 0
+2008-04-11 12:01:07 User Logged in (LDAP): sarah.troyer
+2008-04-11 22:20:20 Local Auth was: 0
+2008-04-11 22:20:20 User Logged in (LDAP): glidbr
+2008-04-13 00:03:30 Local Auth was: 0
+2008-04-13 00:03:30 User Logged in (LDAP): sarah.troyer
+2008-04-13 15:54:44 Local Auth was: 0
+2008-04-13 15:54:44 User Logged in (LDAP): michael.white
+2008-04-13 17:04:01 ERROR failure with LDAP and Klassica login: caroline.dahlke
+2008-04-13 17:04:16 Local Auth was: 0
+2008-04-13 17:04:16 User Logged in (LDAP): dahlca
+2008-04-13 20:13:45 Local Auth was: 0
+2008-04-13 20:13:45 User Logged in (LDAP): gordon.brannon
+2008-04-13 21:46:10 ERROR failure with LDAP and Klassica login: luke.chilson
+2008-04-13 21:46:25 ERROR failure with LDAP and Klassica login: luke.chilson
+2008-04-13 21:46:48 ERROR failure with LDAP and Klassica login: luke.chilson
+2008-04-13 21:47:24 ERROR failure with LDAP and Klassica login: luke.chilson
+2008-04-13 21:49:00 ERROR failure with LDAP and Klassica login: luke.chilson
+2008-04-13 21:51:05 ERROR failure with LDAP and Klassica login: luke.chilson
+2008-04-13 21:51:19 ERROR failure with LDAP and Klassica login: luke.chilson
+2008-04-13 21:51:26 ERROR failure with LDAP and Klassica login: luke.chilson
+2008-04-13 22:18:33 Local Auth was: 0
+2008-04-13 22:18:33 User Logged in (LDAP): gordon.brannon
+2008-04-14 09:22:32 Local Auth was: 0
+2008-04-14 09:22:32 User Logged in (LDAP): sarah.troyer
+2008-04-14 09:57:22 Local Auth was: 0
+2008-04-14 09:57:22 User Logged in (LDAP): marcus.lucero
+2008-04-14 12:56:06 Local Auth was: 0
+2008-04-14 12:56:06 User Logged in (LDAP): marcus.lucero
+2008-04-14 13:01:12 Local Auth was: 0
+2008-04-14 13:01:12 User Logged in (LDAP): gordon.brannon
+2008-04-14 14:44:08 Local Auth was: 0
+2008-04-14 14:44:08 User Logged in (LDAP): glidbr
+2008-04-14 16:46:19 Local Auth was: 0
+2008-04-14 16:46:19 User Logged in (LDAP): marcus.lucero
+2008-04-14 19:28:19 Local Auth was: 0
+2008-04-14 19:28:19 User Logged in (LDAP): marcus.lucero
+2008-04-14 20:27:45 Local Auth was: 0
+2008-04-14 20:27:45 User Logged in (LDAP): cameron.hughes
+2008-04-14 20:41:41 ERROR failure with LDAP and Klassica login: miranda.baerg
+2008-04-14 20:42:01 ERROR failure with LDAP and Klassica login: miranda.baerg
+2008-04-14 20:42:09 ERROR failure with LDAP and Klassica login: baermi
+2008-04-14 21:11:41 Local Auth was: 0
+2008-04-14 21:11:41 User Logged in (LDAP): marcus.lucero
+2008-04-15 10:13:17 Local Auth was: 0
+2008-04-15 10:13:17 User Logged in (LDAP): cameron.hughes
+2008-04-15 18:35:32 Local Auth was: 0
+2008-04-15 18:35:32 User Logged in (LDAP): glidbr
+2008-04-15 18:55:14 Local Auth was: 0
+2008-04-15 18:55:14 User Logged in (LDAP): michael.spaulding
+2008-04-15 21:30:33 ERROR failure with LDAP and Klassica login: curtis.lund
+2008-04-15 21:31:11 ERROR failure with LDAP and Klassica login: curtis.lund
+2008-04-15 21:31:49 ERROR failure with LDAP and Klassica login: curtis.lund
+2008-04-15 21:33:20 ERROR failure with LDAP and Klassica login: curtis.lund
+2008-04-16 00:06:18 Local Auth was: 0
+2008-04-16 00:06:18 User Logged in (LDAP): cameron.hughes
+2008-04-16 11:00:29 Local Auth was: 0
+2008-04-16 11:00:29 User Logged in (LDAP): marcus.lucero
+2008-04-17 09:06:03 Local Auth was: 0
+2008-04-17 09:06:03 User Logged in (LDAP): becky.stclair
+2008-04-17 10:20:58 Local Auth was: 0
+2008-04-17 10:20:58 User Logged in (LDAP): douglas.stowers
+2008-04-17 10:23:45 Local Auth was: 0
+2008-04-17 10:23:45 User Logged in (LDAP): marcus.lucero
+2008-04-17 10:30:10 ERROR failure with LDAP and Klassica login: jeanniestanford
+2008-04-17 10:30:18 ERROR failure with LDAP and Klassica login: jeanniestanford
+2008-04-17 10:30:40 ERROR failure with LDAP and Klassica login: jeannie.stanford
+2008-04-17 10:30:52 Local Auth was: 0
+2008-04-17 10:30:52 User Logged in (LDAP): stanje
+2008-04-17 11:09:08 ERROR failure with LDAP and Klassica login: marianne.goltz@wallawalla.edu
+2008-04-17 11:09:26 ERROR failure with LDAP and Klassica login: marianne.goltz@wallawalla.edu
+2008-04-17 11:09:31 ERROR failure with LDAP and Klassica login: marianne.goltz@wallawalla.edu
+2008-04-17 11:09:41 ERROR failure with LDAP and Klassica login: marianne.goltz@wallawalla.edu
+2008-04-17 11:10:02 ERROR failure with LDAP and Klassica login: marianne.goltz@wallawalla.edu
+2008-04-17 11:10:12 ERROR failure with LDAP and Klassica login: marianne.goltz@wallawalla.edu
+2008-04-17 11:10:32 ERROR failure with LDAP and Klassica login: goltma@wwc.edu
+2008-04-17 11:10:53 ERROR failure with LDAP and Klassica login: marianne.goltz@wallawalla.edu
+2008-04-17 11:23:18 ERROR failure with LDAP and Klassica login: karan.shultz
+2008-04-17 11:23:25 ERROR failure with LDAP and Klassica login: shulka
+2008-04-17 11:23:42 ERROR failure with LDAP and Klassica login: karan.shultz@wallawalla.edu
+2008-04-17 14:53:14 Local Auth was: 0
+2008-04-17 14:53:14 User Logged in (LDAP): glidbr
+2008-04-17 17:52:59 Local Auth was: 0
+2008-04-17 17:52:59 User Logged in (LDAP): gabriel.penalba
+2008-04-18 00:17:59 Local Auth was: 0
+2008-04-18 00:17:59 User Logged in (LDAP): yeng.lee
+2008-04-18 10:09:52 Local Auth was: 0
+2008-04-18 10:09:52 User Logged in (LDAP): glidbr
+2008-04-19 13:53:51 Local Auth was: 0
+2008-04-19 13:53:51 User Logged in (LDAP): marcus.lucero
+2008-04-19 14:18:27 Local Auth was: 0
+2008-04-19 14:18:27 User Logged in (LDAP): tsung-lin.yang
+2008-04-20 03:03:09 Local Auth was: 0
+2008-04-20 03:03:09 User Logged in (LDAP): tsung-lin.yang
+2008-04-20 13:42:29 Local Auth was: 0
+2008-04-20 13:42:29 User Logged in (LDAP): tsung-lin.yang
+2008-04-20 19:11:21 Local Auth was: 0
+2008-04-20 19:11:21 User Logged in (LDAP): jim.forsyth
+2008-04-20 19:32:08 ERROR failure with LDAP and Klassica login: curtis.lund
+2008-04-20 19:32:44 ERROR failure with LDAP and Klassica login: lundcu
+2008-04-20 19:33:09 ERROR failure with LDAP and Klassica login: clund26
+2008-04-20 19:33:20 ERROR failure with LDAP and Klassica login: clund911
+2008-04-20 19:35:26 ERROR failure with LDAP and Klassica login: Curtis.Lund
+2008-04-20 20:03:31 Local Auth was: 0
+2008-04-20 20:03:31 User Logged in (LDAP): andrew.wooley
+2008-04-20 20:04:07 Local Auth was: 0
+2008-04-20 20:04:07 User Logged in (LDAP): arthur.ketcham
+2008-04-21 10:44:40 Local Auth was: 0
+2008-04-21 10:44:40 User Logged in (LDAP): marcus.lucero
+2008-04-21 13:28:42 ERROR failure with LDAP and Klassica login: jennifer.king
+2008-04-21 13:28:49 Local Auth was: 0
+2008-04-21 13:28:49 User Logged in (LDAP): kingje
+2008-04-21 14:13:45 Local Auth was: 0
+2008-04-21 14:13:45 User Logged in (LDAP): glidbr
+2008-04-21 20:34:31 Local Auth was: 0
+2008-04-21 20:34:31 User Logged in (LDAP): sarah.troyer
+2008-04-22 10:17:31 Local Auth was: 0
+2008-04-22 10:17:31 User Logged in (LDAP): rachael.westbrooks
+2008-04-22 14:13:33 ERROR failure with LDAP and Klassica login: rebec
+2008-04-22 14:13:44 Local Auth was: 0
+2008-04-22 14:13:44 User Logged in (LDAP): rebecca.masson
+2008-04-22 21:10:27 ERROR failure with LDAP and Klassica login: ann.fisher@wallawalla.edu
+2008-04-22 21:12:13 ERROR failure with LDAP and Klassica login: ann.fisher@wallawalla.edu
+2008-04-22 21:12:59 Local Auth was: 0
+2008-04-22 21:12:59 User Logged in (LDAP): james.fisher
+2008-04-22 21:13:23 Local Auth was: 0
+2008-04-22 21:13:23 User Logged in (LDAP): james.fisher
+2008-04-23 01:12:03 Local Auth was: 0
+2008-04-23 01:12:03 User Logged in (LDAP): cameron.hughes
+2008-04-23 08:18:42 ERROR failure with LDAP and Klassica login: jeanniestanford
+2008-04-23 08:18:46 Local Auth was: 0
+2008-04-23 08:18:46 User Logged in (LDAP): stanje
+2008-04-23 11:28:41 Local Auth was: 0
+2008-04-23 11:28:41 User Logged in (LDAP): glidbr
+2008-04-24 11:04:30 ERROR failure with LDAP and Klassica login: Adrienne.Skeets
+2008-04-24 11:04:42 ERROR failure with LDAP and Klassica login: Adrienne.Skeets
+2008-04-24 15:28:33 ERROR failure with LDAP and Klassica login: eric.clay
+2008-04-24 15:28:53 ERROR failure with LDAP and Klassica login: eric.clay
+2008-04-24 15:29:10 ERROR failure with LDAP and Klassica login: eric.clay
+2008-04-24 15:29:24 ERROR failure with LDAP and Klassica login: eric.clay
+2008-04-24 15:29:38 ERROR failure with LDAP and Klassica login: 1451042
+2008-04-24 15:29:53 ERROR failure with LDAP and Klassica login: clayer
+2008-04-24 15:32:14 ERROR failure with LDAP and Klassica login: eric.clay
+2008-04-24 15:59:43 Local Auth was: 0
+2008-04-24 15:59:43 User Logged in (LDAP): stanje
+2008-04-24 21:12:21 ERROR failure with LDAP and Klassica login: carwinsum
+2008-04-24 21:12:25 ERROR failure with LDAP and Klassica login: carwinsum
+2008-04-25 10:30:48 Local Auth was: 0
+2008-04-25 10:30:48 User Logged in (LDAP): tsung-lin.yang
+2008-04-27 18:05:53 ERROR failure with LDAP and Klassica login: eric.clay
+2008-04-27 18:07:02 ERROR failure with LDAP and Klassica login: eric.clay
+2008-04-28 09:30:38 ERROR failure with LDAP and Klassica login: eric.clay
+2008-04-28 09:30:47 ERROR failure with LDAP and Klassica login: clayer
+2008-04-28 09:45:32 Local Auth was: 0
+2008-04-28 09:45:32 User Logged in (LDAP): elizabeth.cheek
+2008-04-28 13:55:37 Local Auth was: 0
+2008-04-28 13:55:37 User Logged in (LDAP): elizabeth.cheek
+2008-04-28 15:30:59 Local Auth was: 0
+2008-04-28 15:30:59 User Logged in (LDAP): marcus.lucero
+2008-04-28 20:20:53 Local Auth was: 0
+2008-04-28 20:20:53 User Logged in (LDAP): elizabeth.cheek
+2008-04-28 21:10:43 Local Auth was: 0
+2008-04-28 21:10:43 User Logged in (LDAP): tsung-lin.yang
+2008-04-28 23:07:31 ERROR failure with LDAP and Klassica login: David.Russell
+2008-04-28 23:07:41 ERROR failure with LDAP and Klassica login: David.Russell
+2008-04-28 23:07:46 ERROR failure with LDAP and Klassica login: russda
+2008-04-28 23:44:08 Local Auth was: 0
+2008-04-28 23:44:08 User Logged in (LDAP): cameron.hughes
+2008-04-29 15:35:08 Local Auth was: 0
+2008-04-29 15:35:08 User Logged in (LDAP): phillip.schlieder
+2008-04-29 17:58:35 Local Auth was: 0
+2008-04-29 17:58:35 User Logged in (LDAP): glidbr
+2008-04-29 22:10:06 Local Auth was: 0
+2008-04-29 22:10:06 User Logged in (LDAP): christopher.patchett
+2008-04-30 02:41:19 Local Auth was: 0
+2008-04-30 02:41:19 User Logged in (LDAP): tsung-lin.yang
+2008-04-30 09:35:46 ERROR failure with LDAP and Klassica login: jennifer.calaguian
+2008-04-30 09:37:35 ERROR failure with LDAP and Klassica login: jennifer.calaguian
+2008-04-30 09:38:09 ERROR failure with LDAP and Klassica login: jennifer.calaguian
+2008-04-30 09:38:17 ERROR failure with LDAP and Klassica login: jennifer.calaguian
+2008-04-30 10:13:09 ERROR failure with LDAP and Klassica login: eric.clay
+2008-04-30 11:58:07 ERROR failure with LDAP and Klassica login: eric.clay
+2008-04-30 11:58:16 ERROR failure with LDAP and Klassica login: clayer
+2008-04-30 18:05:44 ERROR failure with LDAP and Klassica login: curtis.lund
+2008-04-30 18:06:11 ERROR failure with LDAP and Klassica login: curtis.lund
+2008-04-30 18:23:39 ERROR failure with LDAP and Klassica login: alexandre.grimaud
+2008-05-01 13:10:51 ERROR failure with LDAP and Klassica login: marianne.goltz@wallawalla.edu
+2008-05-01 13:11:04 ERROR failure with LDAP and Klassica login: marianne.goltz@wallawalla.edu
+2008-05-01 13:11:14 ERROR failure with LDAP and Klassica login: marianne.goltz@wallawalla.edu
+2008-05-01 13:11:44 ERROR failure with LDAP and Klassica login: marianne.goltz@wallawalla.edu
+2008-05-01 15:31:09 Local Auth was: 0
+2008-05-01 15:31:09 User Logged in (LDAP): arthur.ketcham
+2008-05-01 16:23:30 Local Auth was: 0
+2008-05-01 16:23:30 User Logged in (LDAP): david.schonert
+2008-05-01 17:13:48 Local Auth was: 0
+2008-05-01 17:13:48 User Logged in (LDAP): marianne.goltz
+2008-05-02 07:51:41 Local Auth was: 0
+2008-05-02 07:51:41 User Logged in (LDAP): tsung-lin.yang
+2008-05-02 16:23:22 ERROR failure with LDAP and Klassica login: eric.clay
+2008-05-02 19:18:51 Local Auth was: 0
+2008-05-02 19:18:51 User Logged in (LDAP): david.schonert
+2008-05-04 10:49:50 Local Auth was: 0
+2008-05-04 10:49:50 User Logged in (LDAP): david.schonert
+2008-05-04 20:02:30 ERROR failure with LDAP and Klassica login: jennifer.calaguian
+2008-05-04 21:59:26 ERROR failure with LDAP and Klassica login: Jennifer.Calaguian
+2008-05-04 21:59:36 ERROR failure with LDAP and Klassica login: Jennifer.Calaguian
+2008-05-05 18:03:33 ERROR failure with LDAP and Klassica login: curtis.lund
+2008-05-05 18:04:23 ERROR failure with LDAP and Klassica login: curtis.lund
+2008-05-06 23:06:28 Local Auth was: 0
+2008-05-06 23:06:28 User Logged in (LDAP): david.schonert
+2008-05-07 07:55:16 Local Auth was: 0
+2008-05-07 07:55:16 User Logged in (LDAP): michael.spaulding
+2008-05-07 09:25:32 ERROR failure with LDAP and Klassica login: esther.coyle
+2008-05-07 09:26:01 ERROR failure with LDAP and Klassica login: Coyles
+2008-05-07 15:32:45 ERROR failure with LDAP and Klassica login: annette.melgosa
+2008-05-07 15:33:13 ERROR failure with LDAP and Klassica login: annette.melgosa
+2008-05-07 15:33:53 ERROR failure with LDAP and Klassica login: annette.melgosa
+2008-05-08 12:54:25 ERROR failure with LDAP and Klassica login: amber.fadell
+2008-05-08 12:55:12 ERROR failure with LDAP and Klassica login: Amber.Fadell
+2008-05-08 23:08:57 Local Auth was: 0
+2008-05-08 23:08:57 User Logged in (LDAP): david.schonert
+2008-05-09 10:43:03 Local Auth was: 0
+2008-05-09 10:43:03 User Logged in (LDAP): marianne.goltz
+2008-05-09 11:09:55 Local Auth was: 0
+2008-05-09 11:09:55 User Logged in (LDAP): casey.harms
+2008-05-09 14:22:09 Local Auth was: 0
+2008-05-09 14:22:09 User Logged in (LDAP): cameron.hughes
+2008-05-09 19:29:38 ERROR failure with LDAP and Klassica login: lyn.walcker
+2008-05-09 19:30:10 ERROR failure with LDAP and Klassica login: lyn.walcker
+2008-05-09 19:30:32 ERROR failure with LDAP and Klassica login: lyn.walcker
+2008-05-09 20:05:17 ERROR failure with LDAP and Klassica login: timothy.story
+2008-05-09 20:05:40 ERROR failure with LDAP and Klassica login: timothy.story
+2008-05-09 20:06:25 ERROR failure with LDAP and Klassica login: storti
+2008-05-09 20:06:41 ERROR failure with LDAP and Klassica login: timothy.story
+2008-05-09 20:07:38 ERROR failure with LDAP and Klassica login: timothy.story
+2008-05-09 20:07:55 ERROR failure with LDAP and Klassica login: storti
+2008-05-11 18:47:28 ERROR failure with LDAP and Klassica login: ryan.cushman
+2008-05-11 18:47:35 ERROR failure with LDAP and Klassica login: ryan.cushman
+2008-05-11 18:47:52 ERROR failure with LDAP and Klassica login: ryan.cushman
+2008-05-11 18:48:06 ERROR failure with LDAP and Klassica login: cushry
+2008-05-11 18:48:56 ERROR failure with LDAP and Klassica login: Ryan.Cushman
+2008-05-11 18:49:37 ERROR failure with LDAP and Klassica login: Ryan.Cushman
+2008-05-11 18:51:18 ERROR failure with LDAP and Klassica login: ryan.cushman
+2008-05-11 21:40:52 Local Auth was: 0
+2008-05-11 21:40:52 User Logged in (LDAP): arthur.ketcham
+2008-05-12 16:13:05 ERROR failure with LDAP and Klassica login: sali.miller
+2008-05-12 16:13:32 ERROR failure with LDAP and Klassica login: sali.miller
+2008-05-12 16:13:42 ERROR failure with LDAP and Klassica login: sali.miller
+2008-05-12 16:15:45 ERROR failure with LDAP and Klassica login: sali.miller
+2008-05-12 16:15:57 ERROR failure with LDAP and Klassica login: sali.miller
+2008-05-12 16:16:08 ERROR failure with LDAP and Klassica login: sali.miller
+2008-05-12 16:16:18 ERROR failure with LDAP and Klassica login: millsa
+2008-05-12 16:48:31 Local Auth was: 0
+2008-05-12 16:48:31 User Logged in (LDAP): marcus.lucero
+2008-05-12 19:51:08 ERROR failure with LDAP and Klassica login: Sally.Roth
+2008-05-12 19:51:25 Local Auth was: 1
+2008-05-12 19:51:25 New WWU User: sally.roth
+2008-05-12 19:51:25 User Logged in (LDAP): sally.roth
+2008-05-13 10:44:05 ERROR failure with LDAP and Klassica login: caroline.dahlke
+2008-05-13 10:44:19 Local Auth was: 0
+2008-05-13 10:44:19 User Logged in (LDAP): dahlca
+2008-05-13 12:12:17 Local Auth was: 0
+2008-05-13 12:12:17 User Logged in (LDAP): cameron.hughes
+2008-05-13 14:23:27 Local Auth was: 0
+2008-05-13 14:23:27 User Logged in (LDAP): samantha.sanderson
+2008-05-13 17:09:17 Local Auth was: 0
+2008-05-13 17:09:17 User Logged in (LDAP): samantha.sanderson
+2008-05-13 18:31:47 ERROR failure with LDAP and Klassica login: ryan.cushman
+2008-05-13 18:32:06 ERROR failure with LDAP and Klassica login: Ryan.Cushman
+2008-05-13 20:47:52 Local Auth was: 0
+2008-05-13 20:47:52 User Logged in (LDAP): emily.hokett
+2008-05-13 23:14:34 ERROR failure with LDAP and Klassica login: Ryan.Cushman
+2008-05-14 08:48:46 Local Auth was: 0
+2008-05-14 08:48:46 User Logged in (LDAP): samantha.sanderson
+2008-05-14 10:30:28 ERROR failure with LDAP and Klassica login: brian.jackson
+2008-05-14 10:30:51 ERROR failure with LDAP and Klassica login: brian.jackson
+2008-05-14 10:30:57 ERROR failure with LDAP and Klassica login: jackbr
+2008-05-14 10:31:00 ERROR failure with LDAP and Klassica login: jackbr
+2008-05-14 10:31:05 ERROR failure with LDAP and Klassica login: jackbr
+2008-05-14 10:31:12 ERROR failure with LDAP and Klassica login: jackbr
+2008-05-14 10:31:39 ERROR failure with LDAP and Klassica login: Brian.jackson
+2008-05-14 10:32:01 ERROR failure with LDAP and Klassica login: brian.jackson
+2008-05-14 10:32:06 ERROR failure with LDAP and Klassica login: brian.jackson
+2008-05-14 15:35:21 Local Auth was: 0
+2008-05-14 15:35:21 User Logged in (LDAP): arthur.ketcham
+2008-05-15 11:11:55 ERROR failure with LDAP and Klassica login: sali.miller@wallawalla.edu
+2008-05-15 11:12:13 ERROR failure with LDAP and Klassica login: sali.miller@wallawalla.edu
+2008-05-15 13:51:49 Local Auth was: 0
+2008-05-15 13:51:49 User Logged in (LDAP): don.harris-stubbs
+2008-05-16 12:25:25 Local Auth was: 0
+2008-05-16 12:25:25 User Logged in (LDAP): don.harris-stubbs
+2008-05-16 13:45:48 ERROR failure with LDAP and Klassica login: Ryan.Cushman
+2008-05-16 13:45:55 ERROR failure with LDAP and Klassica login: cushry
+2008-05-16 13:46:49 ERROR failure with LDAP and Klassica login: ryan.cushman
+2008-05-16 13:46:57 ERROR failure with LDAP and Klassica login: ryan.cushman
+2008-05-16 13:47:15 ERROR failure with LDAP and Klassica login: Ryan.Cushman
+2008-05-16 13:47:22 ERROR failure with LDAP and Klassica login: Ryan.Cushman
+2008-05-18 11:18:25 Local Auth was: 0
+2008-05-18 11:18:25 User Logged in (LDAP): samantha.sanderson
+2008-05-18 13:11:28 ERROR failure with LDAP and Klassica login: Ryan.Cushman
+2008-07-07 13:41:08 Local Auth was: 0
+2008-07-07 13:41:08 User Logged in (LDAP): arthur.ketcham
+2008-07-07 19:24:22 Local Auth was: 1
+2008-07-07 19:24:22 New WWU User: arthur.ketcham
+2008-07-07 19:24:22 User Logged in (LDAP): arthur.ketcham
+2008-07-07 19:41:52 Local Auth was: 0
+2008-07-07 19:41:52 User Logged in (LDAP): arthur.ketcham
+2008-07-07 20:18:17 Local Auth was: 0
+2008-07-07 20:18:17 User Logged in (LDAP): arthur.ketcham
+2008-07-07 20:18:47 Local Auth was: 0
+2008-07-07 20:18:47 User Logged in (LDAP): arthur.ketcham
